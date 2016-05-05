@@ -17,11 +17,11 @@ setup(
     url='https://github.com/freyes/zst',
     author='Felipe Reyes',
     author_email='freyes@tty.cl',
-    license='GPLv3',
+    license='GPLv2+',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GPL version 3',
+        'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
